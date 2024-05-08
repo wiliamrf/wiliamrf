@@ -31,7 +31,7 @@ mas você pode adicionar a sua própria, seguindo esse [tutorial](https://github
   <!--- tyscript loading ICON -->
   <!--<img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">-->
   <!--- SQL ICON -->
-  <img align="center" alt="Rafa-bootstrap" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg">
+  <img align="center" alt="Will-bootstrap" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg">
   <!--- html ICON -->
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <!--- ccs3 ICON -->
