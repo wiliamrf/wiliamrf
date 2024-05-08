@@ -1,8 +1,11 @@
 ### Olá Sou Wiliam Freitas 👋
 
-Atualmente Trabalho com Back-end ASP.NET desenvolvendo WebApi e Projetos MVC.
+Atualmente Trabalho com Back-end ASP.NET
 
-- 
+-  Desenvolvendo WebApi e Projetos MVC.
+-  SQL
+  
+  
 
 <!--
 **wiliamrf/wiliamrf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
